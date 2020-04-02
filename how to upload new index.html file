@@ -1,0 +1,13 @@
+cd to local directory with new index.html
+
+
+scp index.html pemb4888@linux.ox.ac.uk:public_html/index.html
+
+type in single sign-on password
+index.html file is overwritten
+
+
+log in to remote server file with: ssh pemb4888@linux.ox.ac.uk
+type in single sign-on password
+
+exit with ctrl + D
